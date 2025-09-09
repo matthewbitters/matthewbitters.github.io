@@ -13,4 +13,4 @@ If you would like to collaborate, please reach out below!
 
 # Our first EDA coding project
 
-<embed type="text/html" src="nedpostoffice.html" width="600" height="600">
+<embed type="text/html" src="/img/nedpostoffice.html" width="600" height="600">
