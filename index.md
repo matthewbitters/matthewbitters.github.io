@@ -7,6 +7,6 @@ Hello and welcome to my page! I am the Fire Risk & Forest Resilience Project Man
 In my free time, I enjoy putting my restoration ecology experience to practice by pulling weeds and planting native plants around my mountain home. I also enjoys trail running, biking, and skiing with my partner, Joan, and goldendoodle puppy, Puddle.
 
 If you would like to collaborate, please reach out below!
-- Email: matthew.bitters.edu
+- Email: matthew.bitters@colorado.edu
 - [LinkedIn](https://www.linkedin.com/in/matthew-bitters/)
 - [GitHub](https://github.com/matthewbitters)
