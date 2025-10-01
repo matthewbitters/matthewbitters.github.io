@@ -11,6 +11,16 @@ If you would like to collaborate, please reach out below!
 - [LinkedIn](https://www.linkedin.com/in/matthew-bitters/)
 - [GitHub](https://github.com/matthewbitters)
 
-# Our first EDA coding project
+# EDA coding projects
 
+## Map activity
+Nederland is a little paradise in Boulder County, Colorado, that I call home! One of my favorite places that I like to go to is the post office because everyone knows everyone!
 <embed type="text/html" src="/img/nedpostoffice.html" width="600" height="600">
+
+## Climate change assignment
+### [Australia is heating up! Temperatures have increased by 1.56°C since 1939!](https://matthewbitters.github.io/portfolio_posts/06_climate_canberra.html)
+
+![canberra_climate_figure](/img/canberra_annual_max_temp.png)
+
+I did my PhD research in Australia, mainly based out of Canberra, the capital city. Summers were hot! Average maximum temperatures have increased by 1.56°C from 18.85°C in 1939 to 20.41°C in 2010. The predicted temperature average maximum temperature in 2050 is 21.29°C. I'm happy I won't have to trudge through the forests then!
+
