@@ -24,3 +24,10 @@ Nederland is a little paradise in Boulder County, Colorado, that I call home! On
 
 I did my PhD research in Australia, mainly based out of Canberra, the capital city. Summers were hot! Average maximum temperatures have increased by 1.56°C from 18.85°C in 1939 to 20.41°C in 2010. The predicted temperature average maximum temperature in 2050 is 21.29°C. I'm happy I won't have to trudge through the forests then!
 
+![habitat_fragmentation](/img/WogWogpics.jpg)
+The timber industry is a major part of the economy in southeastern Australia. Studying the effects of habitat fragmentation caused by logging in a small town that relies on the timber industry was... interesting.
+
+![bombala](/img/wog3.jpg)
+Native, continuous Eucalytpus forest (South East Forests National Park) on the left and a major Monterey pine plantation in the right.
+
+
